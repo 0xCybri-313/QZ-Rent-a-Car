@@ -12,7 +12,7 @@ A simple frontend project for a car rental service, built with HTML, CSS, and Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QZ-Rent-a-Car.git
+   git clone https://github.com/0xCybri-313/QZ-Rent-a-Car.git
    ```
 2. Open `index.html` in your browser.
 
